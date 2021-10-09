@@ -2,6 +2,8 @@
 
 QR Code to static Image URL
 
+[View on GitHub](https://github.com/seanghay/svg-qrcode-server)
+
 ## Usage
 
 SVG
@@ -24,3 +26,4 @@ https://svg-qrcode.vercel.app/api/qrcode.png?text=Hello%20World
 ---
 
 Powered by [Vercel](https://vercel.com)
+
