@@ -1,6 +1,6 @@
-# svg-qrcode-server
+# SVG QR Code
 
-Create static URL QR Code for SVG/PNG
+QR Code to static Image URL
 
 ## Usage
 
