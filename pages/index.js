@@ -9,7 +9,7 @@ export default function App({ readmeContent }) {
 }
 
 export async function getStaticProps() {
-  const readmeFile = path.join(process.cwd(), 'public', '_app.md');
+  const readmeFile = path.join(process.cwd(), 'README.md');
   const readmeContent = await fs.readFile(readmeFile, 'utf-8');
 
   return {
