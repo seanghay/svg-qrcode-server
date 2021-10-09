@@ -10,7 +10,7 @@ export default function App({ readmeContent }) {
 export async function getServerSideProps() {
 
   const readmeFile = path.join(process.cwd(), 'README.md');
-  const readmeContent = await fs.readFile(readmeFile, 'utf-8');
+  const readmeContent = await fs.resolve(readmeFile, 'utf-8');
 
   return {
     props: {
