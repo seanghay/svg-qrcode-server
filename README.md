@@ -20,3 +20,7 @@ https://svg-qrcode.vercel.app/api/qrcode.png?text=Hello%20World
 
 
 <img src="https://svg-qrcode.vercel.app/api/qrcode.png?text=Hello%20World" width=350>
+
+---
+
+Powered by [Vercel](https://vercel.com)
