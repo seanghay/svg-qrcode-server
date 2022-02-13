@@ -25,5 +25,10 @@ https://svg-qrcode.vercel.app/api/qrcode.png?text=Hello%20World
 
 ---
 
+### Colors
+
+<img src="https://svg-qrcode.vercel.app/api/colors/300/400" width=350>
+
+
 Powered by [Vercel](https://vercel.com)
 
